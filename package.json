@@ -1,0 +1,27 @@
+{
+  "name": "coding-challenge_sort-animals-by-age",
+  "version": "1.0.0",
+  "description": "In this tutorial, we will be solving a coding challenge that involves sorting a list of animals by their ages. We will accomplish this by reviewing and utilizing a series of concepts, including OOP.",
+  "main": "animalAgeSolution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianedwards-jpg/Coding-Challenge_Sort-Animals-By-Age.git"
+  },
+  "keywords": [
+    "Sort",
+    "Push",
+    "OOP",
+    "JavaScript",
+    "Array",
+    "Object"
+  ],
+  "author": "Ian Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianedwards-jpg/Coding-Challenge_Sort-Animals-By-Age/issues"
+  },
+  "homepage": "https://github.com/ianedwards-jpg/Coding-Challenge_Sort-Animals-By-Age#readme"
+}
