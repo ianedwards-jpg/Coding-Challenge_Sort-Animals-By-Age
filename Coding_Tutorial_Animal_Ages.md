@@ -219,4 +219,4 @@ compute ();
 
 With that, we are done! Run your code in an online editor, Visual Studio Code or another console-based environment to find the result. If successful, the console should output "Lion". You can find the complete JS code on GitHub via the link below. 
 
-Page on GitHub: https://github.com/ianedwards-jpg/Object_Oriented_Prog_JavaScript/blob/main/animalAgeSolution.js
+Page on GitHub: https://github.com/ianedwards-jpg/Coding-Challenge_Sort-Animals-By-Age/blob/main/animalAgeSolution.js
