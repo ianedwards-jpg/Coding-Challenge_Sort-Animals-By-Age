@@ -41,7 +41,7 @@ const animalFax = [
     { Name: "Leopard",  Age: 67 },
     { Name: "Ostritch",  Age: 12 },
     { Name: "Hyena",  Age: 54 }
-]; // defines the animals name and age as objects within an array
+]; // defines the animals name and age as properties within an array
 
 
 ```  
